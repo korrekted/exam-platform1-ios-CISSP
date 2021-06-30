@@ -191,7 +191,6 @@
 		96155B4126830C4700228151 /* OSlide8View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7626830C4500228151 /* OSlide8View.swift */; };
 		96155B4226830C4700228151 /* OProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7826830C4500228151 /* OProgressView.swift */; };
 		96155B4326830C4700228151 /* OSlide15Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7926830C4500228151 /* OSlide15Cell.swift */; };
-		96155B4526830C4700228151 /* ODatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7C26830C4500228151 /* ODatePicker.swift */; };
 		96155B4626830C4700228151 /* OSlide4Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7D26830C4500228151 /* OSlide4Cell.swift */; };
 		96155B4726830C4700228151 /* OSlide9TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7E26830C4500228151 /* OSlide9TagView.swift */; };
 		96155B4826830C4700228151 /* OSlideQuestiionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A7F26830C4500228151 /* OSlideQuestiionButton.swift */; };
@@ -200,7 +199,6 @@
 		96155B4B26830C4700228151 /* OSlide4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8226830C4500228151 /* OSlide4View.swift */; };
 		96155B4C26830C4700228151 /* OSlide9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8326830C4500228151 /* OSlide9View.swift */; };
 		96155B4D26830C4700228151 /* OSlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8426830C4500228151 /* OSlideView.swift */; };
-		96155B4E26830C4700228151 /* OSlideQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8526830C4600228151 /* OSlideQuestionView.swift */; };
 		96155B4F26830C4700228151 /* OSlide15View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8626830C4600228151 /* OSlide15View.swift */; };
 		96155B5026830C4700228151 /* OSlide7View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8726830C4600228151 /* OSlide7View.swift */; };
 		96155B5126830C4700228151 /* OSlide1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155A8826830C4600228151 /* OSlide1View.swift */; };
@@ -404,7 +402,6 @@
 		96155A7626830C4500228151 /* OSlide8View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide8View.swift; sourceTree = "<group>"; };
 		96155A7826830C4500228151 /* OProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OProgressView.swift; sourceTree = "<group>"; };
 		96155A7926830C4500228151 /* OSlide15Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide15Cell.swift; sourceTree = "<group>"; };
-		96155A7C26830C4500228151 /* ODatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ODatePicker.swift; sourceTree = "<group>"; };
 		96155A7D26830C4500228151 /* OSlide4Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide4Cell.swift; sourceTree = "<group>"; };
 		96155A7E26830C4500228151 /* OSlide9TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9TagView.swift; sourceTree = "<group>"; };
 		96155A7F26830C4500228151 /* OSlideQuestiionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestiionButton.swift; sourceTree = "<group>"; };
@@ -413,7 +410,6 @@
 		96155A8226830C4500228151 /* OSlide4View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide4View.swift; sourceTree = "<group>"; };
 		96155A8326830C4500228151 /* OSlide9View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9View.swift; sourceTree = "<group>"; };
 		96155A8426830C4500228151 /* OSlideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideView.swift; sourceTree = "<group>"; };
-		96155A8526830C4600228151 /* OSlideQuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestionView.swift; sourceTree = "<group>"; };
 		96155A8626830C4600228151 /* OSlide15View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide15View.swift; sourceTree = "<group>"; };
 		96155A8726830C4600228151 /* OSlide7View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide7View.swift; sourceTree = "<group>"; };
 		96155A8826830C4600228151 /* OSlide1View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide1View.swift; sourceTree = "<group>"; };
@@ -1246,7 +1242,6 @@
 				96155A8226830C4500228151 /* OSlide4View.swift */,
 				96155A8326830C4500228151 /* OSlide9View.swift */,
 				96155A8426830C4500228151 /* OSlideView.swift */,
-				96155A8526830C4600228151 /* OSlideQuestionView.swift */,
 				96155A8626830C4600228151 /* OSlide15View.swift */,
 				96155A8726830C4600228151 /* OSlide7View.swift */,
 				96155A8826830C4600228151 /* OSlide1View.swift */,
@@ -1261,7 +1256,6 @@
 				96155A7826830C4500228151 /* OProgressView.swift */,
 				96155A7926830C4500228151 /* OSlide15Cell.swift */,
 				96155A7A26830C4500228151 /* Source */,
-				96155A7C26830C4500228151 /* ODatePicker.swift */,
 				96155A7D26830C4500228151 /* OSlide4Cell.swift */,
 				96155A7E26830C4500228151 /* OSlide9TagView.swift */,
 				96155A7F26830C4500228151 /* OSlideQuestiionButton.swift */,
@@ -1647,7 +1641,6 @@
 				96155B0E26830C4700228151 /* QuestionTableView.swift in Sources */,
 				96155A9826830C4600228151 /* Fonts.swift in Sources */,
 				96155B3026830C4700228151 /* StatsViewModel.swift in Sources */,
-				96155B4E26830C4700228151 /* OSlideQuestionView.swift in Sources */,
 				96155ACE26830C4600228151 /* Course.swift in Sources */,
 				96155AD326830C4600228151 /* CoursesManagerMediator.swift in Sources */,
 				96155AC326830C4600228151 /* GetTestConfigRequest.swift in Sources */,
@@ -1668,7 +1661,6 @@
 				96155B4026830C4700228151 /* OSlide5View.swift in Sources */,
 				96155ABC26830C4600228151 /* TestStatsManagerCore.swift in Sources */,
 				96155ABF26830C4600228151 /* Test.swift in Sources */,
-				96155B4526830C4700228151 /* ODatePicker.swift in Sources */,
 				96155B4B26830C4700228151 /* OSlide4View.swift in Sources */,
 				96155AB826830C4600228151 /* PaygateManager.swift in Sources */,
 				96155B0926830C4700228151 /* TestAnalytics.swift in Sources */,
@@ -1806,6 +1798,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/CISSP/Resource/Info.plist";
@@ -1814,7 +1807,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.cissp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "CISSP Development Profile";
@@ -1832,6 +1825,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/CISSP/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -1839,7 +1833,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.cissp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "CISSP AppStore Profile";
